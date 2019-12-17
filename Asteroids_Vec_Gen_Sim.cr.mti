@@ -1,0 +1,344 @@
+C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls367.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls367.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls367
+-- Compiling architecture structural of sn74ls367
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_state_machine.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_state_machine.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_state_machine
+-- Compiling architecture structural of vec_state_machine
+-- Loading package std_logic_textio
+-- Loading entity rom_b2s129
+-- Loading entity sn74ls174
+-- Loading entity sn74ls74
+-- Loading entity sn74ls42
+-- Loading entity sn74ls109
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_rom.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_rom.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_rom
+-- Compiling architecture structural of vec_rom
+-- Loading entity rom_8316e
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls74.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls74.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls74
+-- Compiling architecture behavioral of sn74ls74
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls191.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls191.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls191
+-- Compiling architecture structural of sn74ls191
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls174.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls174.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls174
+-- Compiling architecture structural of sn74ls174
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls273.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls273.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls273
+-- Compiling architecture structural of sn74ls273
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_ram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_ram.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_ram
+-- Compiling architecture structural of vec_ram
+-- Loading entity ram_2114
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/rom_b2s129.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/rom_b2s129.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_b2s129
+-- Compiling architecture structural of rom_b2s129
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls175.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls175.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls175
+-- Compiling architecture behavioral of sn74ls175
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls193.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls193.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls193
+-- Compiling architecture behavioral of sn74ls193
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls670.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls670.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls670
+-- Compiling architecture behavioral of sn74ls670
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls139.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls139.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls139
+-- Compiling architecture behavioral of sn74ls139
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls157.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls157.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls157
+-- Compiling architecture structural of sn74ls157
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls374.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls374.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls374
+-- Compiling architecture structural of sn74ls374
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls42.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls42.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls42
+-- Compiling architecture behavioral of sn74ls42
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_mem_latches.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_mem_latches.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_mem_latches
+-- Compiling architecture structural of vec_mem_latches
+-- Loading entity sn74ls273
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Testbench_Single_ICs/tb_sn7497.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Testbench_Single_ICs/tb_sn7497.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_sn7497
+-- Compiling architecture Behavioral of tb_sn7497
+-- Loading entity sn7497
+-- Loading package ENV
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_data_buffer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_data_buffer.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_data_buffer
+-- Compiling architecture structural of vec_data_buffer
+-- Loading entity sn74ls245
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_xy_counters.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_xy_counters.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_xy_counters
+-- Compiling architecture structural of vec_xy_counters
+-- Loading entity sn7497
+-- Loading entity sn74ls191
+-- Loading entity sn74ls157
+-- Loading entity sn74ls374
+-- Loading entity sn74ls174
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls161.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls161.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls161
+-- Compiling architecture behavioral of sn74ls161
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Vec_Gen_Top/vec_gen_top.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Vec_Gen_Top/vec_gen_top.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_gen_top
+-- Compiling architecture structural of vec_gen_top
+-- Loading entity vec_pgm_counter
+-- Loading entity vec_timer
+-- Loading entity vec_mem_select
+-- Loading entity vec_data_buffer
+-- Loading entity vec_xy_counters
+-- Loading entity vec_mem_latches
+-- Loading entity vec_ram
+-- Loading package std_logic_textio
+-- Loading entity vec_rom
+-- Loading entity vec_state_machine
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/rom_8316e.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/rom_8316e.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_8316e
+-- Compiling architecture structural of rom_8316e
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn7497.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn7497.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn7497
+-- Compiling architecture structural of sn7497
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls109.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls109.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls109
+-- Compiling architecture behavioral of sn74ls109
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_mem_select.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_mem_select.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_mem_select
+-- Compiling architecture structural of vec_mem_select
+-- Loading entity sn74ls157
+-- Loading entity sn74ls139
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls83.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls83.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls83
+-- Compiling architecture structural of sn74ls83
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls245.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/sn74ls245.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sn74ls245
+-- Compiling architecture structural of sn74ls245
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/ram_2114.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Single_ICs/ram_2114.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram_2114
+-- Compiling architecture behaviorial of ram_2114
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Testbench_Subassemblies/tb_vec_xy_counters.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Testbench_Subassemblies/tb_vec_xy_counters.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_vec_xy_counters
+-- Compiling architecture behavioral of tb_vec_xy_counters
+-- Loading entity vec_xy_counters
+-- Loading package ENV
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Vec_Gen_Top/tb_vec_gen_top.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/Vec_Gen_Top/tb_vec_gen_top.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_vec_gen_top
+-- Compiling architecture behavioral of tb_vec_gen_top
+-- Loading entity vec_gen_top
+-- Loading package ENV
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_timer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_timer.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_timer
+-- Compiling architecture structural of vec_timer
+-- Loading entity sn74ls157
+-- Loading entity sn74ls175
+-- Loading entity sn74ls83
+-- Loading entity sn74ls42
+-- Loading entity sn74ls161
+
+} {} {}} C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_pgm_counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Nick/Documents/My_Projects/Asteroids_Arcade/Asteroids_Vec_Gen_Sim/HDL_Subassemblies/vec_pgm_counter.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vec_pgm_counter
+-- Compiling architecture structural of vec_pgm_counter
+-- Loading entity sn74ls74
+-- Loading entity sn74ls191
+-- Loading entity sn74ls670
+-- Loading entity sn74ls367
+-- Loading entity sn74ls193
+
+} {} {}}

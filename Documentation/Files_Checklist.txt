@@ -1,0 +1,91 @@
+-------------------------------------------------
+HDL Single ICs:
+-------------------------------------------------
+
+sn74ls42.vhd                      *
+sn74ls74.vhd                      *
+sn74ls83.vhd                      *
+sn74ls109.vhd                     *
+sn74ls139.vhd                     *
+sn74ls157.vhd                     *
+sn74ls161.vhd                     *
+sn74ls174.vhd                     *
+sn74ls175.vhd                     *
+sn79ls191.vhd                     *
+sn79ls193.vhd                     *
+sn74ls245.vhd                     *
+sn74ls273.vhd                     *
+sn74ls367.vhd                     *
+sn74ls374.vhd                     *
+sn74ls670.vhd                     *
+sn7497.vhd                        *
+rom_b2s129.vhd                    *
+rom_8316e.vhd                     *
+ram_2114.vhd                      *
+
+-------------------------------------------------
+Testbench Single ICs:
+-------------------------------------------------
+
+tb_sn74ls42.vhd                   *
+tb_sn74ls74.vhd                   *
+tb_sn74ls83.vhd                   *
+tb_sn74ls109.vhd                  *
+tb_sn74ls139.vhd                  *
+tb_sn74ls157.vhd                  *
+tb_sn74ls161.vhd                  *
+tb_sn74ls174.vhd                  *
+tb_sn74ls175.vhd                  *
+tb_sn79ls191.vhd                  *
+tb_sn79ls193.vhd                  *
+tb_sn74ls245.vhd                  *
+tb_sn74ls273.vhd                  *
+tb_sn74ls367.vhd                  *
+tb_sn74ls374.vhd                  *
+tb_sn74ls670.vhd                  *
+tb_sn7497.vhd                     *
+tb_rom_b2s129.vhd                 *
+tb_rom_8316e.vhd                  *
+tb_ram_2114.vhd                   *
+
+-------------------------------------------------
+HDL Sub-assemblies:
+-------------------------------------------------
+
+vec_state_machine.vhd             *
+vec_xy_counters.vhd               *
+vec_data_buffer.vhd               *
+vec_mem_latches.vhd               *
+vec_pgm_counter.vhd               *
+vec_mem_select.vhd                *
+vec_timer.vhd                     *
+vec_rom.vhd                       *
+vec_ram.vhd                       *
+
+-------------------------------------------------
+Testbench Sub-assemblies:
+-------------------------------------------------
+
+tb_vec_state_machine.vhd          *
+tb_vec_xy_counters.vhd            *
+tb_vec_data_buffer.vhd            *
+tb_vec_mem_latches.vhd            *
+tb_vec_pgm_counter.vhd            *
+tb_vec_mem_select.vhd             *
+tb_vec_timer.vhd                  *
+tb_vec_rom.vhd                    *
+tb_vec_ram.vhd                    *
+
+-------------------------------------------------
+ROM Data Files:
+-------------------------------------------------
+
+Vec_State_Machine_ROM.hex         *
+Asteroids_ROM.hex                 *
+
+-------------------------------------------------
+Vector Generator Top:
+-------------------------------------------------
+
+tb_vec_gen_top.vhd                *
+vec_gen_top.vhd                   *
